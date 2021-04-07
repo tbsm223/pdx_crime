@@ -233,34 +233,12 @@
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
-          7641180,
-          695718
-        ]
-      },
-      "properties" : {
-        "FID" : 10,
-        "CATEGORY" : "OTHER",
-        "CALL_GROUP" : "DISORDER",
-        "final_case" : "PARTY",
-        "CASE_DESC" : "PARTY DISTURBANCE",
-        "occ_date" : 1471046400000,
-        "x_coordina" : 7641180,
-        "y_coordina" : 695718,
-        "census_tra" : 3502
-      }
-    },
-    {
-      "type" : "Feature",
-      "id" : 11,
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
           7676556,
           696045
         ]
       },
       "properties" : {
-        "FID" : 11,
+        "FID" : 10,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -273,7 +251,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 12,
+      "id" : 11,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -282,7 +260,7 @@
         ]
       },
       "properties" : {
-        "FID" : 12,
+        "FID" : 11,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -295,7 +273,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 13,
+      "id" : 12,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -304,7 +282,7 @@
         ]
       },
       "properties" : {
-        "FID" : 13,
+        "FID" : 12,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -317,7 +295,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 14,
+      "id" : 13,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -326,7 +304,7 @@
         ]
       },
       "properties" : {
-        "FID" : 14,
+        "FID" : 13,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -339,7 +317,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 15,
+      "id" : 14,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -348,7 +326,7 @@
         ]
       },
       "properties" : {
-        "FID" : 15,
+        "FID" : 14,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -361,7 +339,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 16,
+      "id" : 15,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -370,7 +348,7 @@
         ]
       },
       "properties" : {
-        "FID" : 16,
+        "FID" : 15,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -383,7 +361,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 17,
+      "id" : 16,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -392,7 +370,7 @@
         ]
       },
       "properties" : {
-        "FID" : 17,
+        "FID" : 16,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -405,7 +383,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 18,
+      "id" : 17,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -414,7 +392,7 @@
         ]
       },
       "properties" : {
-        "FID" : 18,
+        "FID" : 17,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -427,7 +405,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 19,
+      "id" : 18,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -436,7 +414,7 @@
         ]
       },
       "properties" : {
-        "FID" : 19,
+        "FID" : 18,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -449,7 +427,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 20,
+      "id" : 19,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -458,7 +436,7 @@
         ]
       },
       "properties" : {
-        "FID" : 20,
+        "FID" : 19,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -471,7 +449,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 21,
+      "id" : 20,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -480,7 +458,7 @@
         ]
       },
       "properties" : {
-        "FID" : 21,
+        "FID" : 20,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -493,7 +471,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 22,
+      "id" : 21,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -502,7 +480,7 @@
         ]
       },
       "properties" : {
-        "FID" : 22,
+        "FID" : 21,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -515,7 +493,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 23,
+      "id" : 22,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -524,7 +502,7 @@
         ]
       },
       "properties" : {
-        "FID" : 23,
+        "FID" : 22,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -537,7 +515,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 24,
+      "id" : 23,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -546,7 +524,7 @@
         ]
       },
       "properties" : {
-        "FID" : 24,
+        "FID" : 23,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -559,7 +537,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 25,
+      "id" : 24,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -568,7 +546,7 @@
         ]
       },
       "properties" : {
-        "FID" : 25,
+        "FID" : 24,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -581,7 +559,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 26,
+      "id" : 25,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -590,7 +568,7 @@
         ]
       },
       "properties" : {
-        "FID" : 26,
+        "FID" : 25,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -603,7 +581,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 27,
+      "id" : 26,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -612,7 +590,7 @@
         ]
       },
       "properties" : {
-        "FID" : 27,
+        "FID" : 26,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -625,7 +603,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 28,
+      "id" : 27,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -634,7 +612,7 @@
         ]
       },
       "properties" : {
-        "FID" : 28,
+        "FID" : 27,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -647,7 +625,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 29,
+      "id" : 28,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -656,7 +634,7 @@
         ]
       },
       "properties" : {
-        "FID" : 29,
+        "FID" : 28,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -669,7 +647,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 30,
+      "id" : 29,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -678,7 +656,7 @@
         ]
       },
       "properties" : {
-        "FID" : 30,
+        "FID" : 29,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -691,7 +669,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 31,
+      "id" : 30,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -700,7 +678,7 @@
         ]
       },
       "properties" : {
-        "FID" : 31,
+        "FID" : 30,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -713,7 +691,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 32,
+      "id" : 31,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -722,7 +700,7 @@
         ]
       },
       "properties" : {
-        "FID" : 32,
+        "FID" : 31,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -735,7 +713,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 33,
+      "id" : 32,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -744,7 +722,7 @@
         ]
       },
       "properties" : {
-        "FID" : 33,
+        "FID" : 32,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -757,7 +735,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 34,
+      "id" : 33,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -766,7 +744,7 @@
         ]
       },
       "properties" : {
-        "FID" : 34,
+        "FID" : 33,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -779,7 +757,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 35,
+      "id" : 34,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -788,7 +766,7 @@
         ]
       },
       "properties" : {
-        "FID" : 35,
+        "FID" : 34,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -801,7 +779,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 36,
+      "id" : 35,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -810,7 +788,7 @@
         ]
       },
       "properties" : {
-        "FID" : 36,
+        "FID" : 35,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -823,7 +801,7 @@
     },
     {
       "type" : "Feature",
-      "id" : 37,
+      "id" : 36,
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
@@ -832,7 +810,7 @@
         ]
       },
       "properties" : {
-        "FID" : 37,
+        "FID" : 36,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
